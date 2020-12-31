@@ -1,0 +1,42 @@
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"@**Trực Trần Trung (BTS-NTS)** mình cần hỗ trợ ...\"}","level":"info","timestamp":"2020-06-19T10:21:20.814Z"}
+{"message":"Send again error Error: Request failed with status code 401","level":"error","timestamp":"2020-06-19T10:21:21.266Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-19T10:28:28.205Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"@**Tiến Nguyễn Thế (BTS-NTS)** hôm nay có mưa không?\"}","level":"info","timestamp":"2020-06-19T10:28:28.503Z"}
+{"message":"Send again error Error: Request failed with status code 401","level":"error","timestamp":"2020-06-19T10:28:28.589Z"}
+{"message":"Send again error Error: Request failed with status code 401","level":"error","timestamp":"2020-06-19T10:28:28.824Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-19T10:30:36.573Z"}
+{"message":"Send again error Error: Request failed with status code 401","level":"error","timestamp":"2020-06-19T10:30:37.068Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-19T10:31:31.000Z"}
+{"message":"Send again error Error: Request failed with status code 401","level":"error","timestamp":"2020-06-19T10:31:31.463Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-19T10:32:28.704Z"}
+{"message":"Send again error Error: Request failed with status code 401","level":"error","timestamp":"2020-06-19T10:32:29.511Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-19T10:32:56.943Z"}
+{"message":"Send again error Error: Request failed with status code 401","level":"error","timestamp":"2020-06-19T10:32:57.582Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"@**Trực Trần Trung (BTS-NTS)** mình cần hỗ trợ ...\"}","level":"info","timestamp":"2020-06-19T10:36:32.941Z"}
+{"message":"Send again error TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","level":"error","timestamp":"2020-06-19T10:36:33.701Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-19T10:37:55.769Z"}
+{"message":"Send again error TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","level":"error","timestamp":"2020-06-19T10:37:56.370Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-19T10:38:06.033Z"}
+{"message":"Send again error TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","level":"error","timestamp":"2020-06-19T10:38:06.409Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"@**Tiến Nguyễn Thế (BTS-NTS)** hôm nay có mưa không?\"}","level":"info","timestamp":"2020-06-19T10:39:26.322Z"}
+{"message":"Send again error TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","level":"error","timestamp":"2020-06-19T10:39:26.694Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-19T10:39:46.117Z"}
+{"message":"Send again error TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","level":"error","timestamp":"2020-06-19T10:39:46.591Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"@**Tiến Nguyễn Thế (BTS-NTS)** thời tiết ngày mai thế nào?\"}","level":"info","timestamp":"2020-06-19T10:39:56.091Z"}
+{"message":"Send again error TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","level":"error","timestamp":"2020-06-19T10:39:56.495Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-19T10:40:51.090Z"}
+{"message":"Send again error TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","level":"error","timestamp":"2020-06-19T10:40:51.561Z"}
+{"message":"[REQUEST] {\"type\":\"stream\",\"to\":\"Zulip Jitsi Support\",\"topic\":\"general\",\"content\":\"@**Tiến Nguyễn Thế (BTS-NTS)** mình cần hỗ trợ jitsi\"}","level":"info","timestamp":"2020-06-19T10:42:27.025Z"}
+{"message":"Send again error TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","level":"error","timestamp":"2020-06-19T10:42:27.362Z"}
+{"message":"[REQUEST] {\"type\":\"private\",\"to\":\"[19]\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-21T15:29:56.736Z"}
+{"message":"Send again error TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","level":"error","timestamp":"2020-06-21T15:29:57.050Z"}
+{"message":"[REQUEST] {\"type\":\"private\",\"to\":\"[19]\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-21T15:30:30.723Z"}
+{"message":"[REQUEST] {\"type\":\"private\",\"to\":\"[19]\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-21T15:31:08.739Z"}
+{"message":"Send reply to stream success [object Object]","level":"info","timestamp":"2020-06-21T15:31:09.006Z"}
+{"message":"[REQUEST] {\"type\":\"private\",\"to\":\"[19]\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-21T15:31:49.768Z"}
+{"message":"Send reply to stream success [object Object]","level":"info","timestamp":"2020-06-21T15:31:50.048Z"}
+{"message":"[REQUEST] {\"type\":\"private\",\"to\":\"[19]\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-21T15:32:09.276Z"}
+{"message":"Send reply to stream success [object Object]","level":"info","timestamp":"2020-06-21T15:32:09.594Z"}
+{"message":"Send again error TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle","level":"error","timestamp":"2020-06-21T15:32:09.595Z"}
+{"message":"[REQUEST] {\"type\":\"private\",\"to\":\"[19]\",\"content\":\"xin chao nhe\"}","level":"info","timestamp":"2020-06-21T15:32:57.134Z"}
+{"message":"Send reply to stream success ","level":"info","timestamp":"2020-06-21T15:32:57.400Z"}

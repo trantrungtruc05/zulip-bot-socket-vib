@@ -1,0 +1,9 @@
+Xin chào! Mình là Chat Bot của team Giải pháp Công nghệ mới (NTS).
+
+Chào mừng bạn đến với Zulip, phần mềm chat nội bộ đang được triển khai toàn hàng.
+Zulip có thể hoạt động trên máy tính và smartphone; trong mạng nội bộ và từ bên ngoài.
+
+Bạn truy cập vào https://help.vibnbs.com để tìm hiểu thêm về cách sử dụng Zulip nhé.
+
+Ngoài ra, bạn có thể gửi yêu cầu hỗ trợ hoặc câu hỏi liên quan đến Zulip cho Bot.
+Bot sẽ chuyển tin nhắn của bạn đến bộ phận hỗ trợ.
